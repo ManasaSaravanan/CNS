@@ -1,4 +1,4 @@
-<img width="396" height="292" alt="Screenshot 2025-08-28 133246" src="https://github.com/user-attachments/assets/8c9dbb05-1e9b-42c1-b7f1-7f83be3c3ca7" />## EX. NO: 1 : IMPLEMENTATION OF CAESAR CIPHER
+## EX. NO: 1 : IMPLEMENTATION OF CAESAR CIPHER
 ## MANASA . S
 ## 212224220059
 
